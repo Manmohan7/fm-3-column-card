@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fm-3-column-card/static/css/main.3c2e0dac.chunk.css",
+    "main.js": "/fm-3-column-card/static/js/main.92ad313a.chunk.js",
+    "main.js.map": "/fm-3-column-card/static/js/main.92ad313a.chunk.js.map",
+    "runtime-main.js": "/fm-3-column-card/static/js/runtime-main.8531754f.js",
+    "runtime-main.js.map": "/fm-3-column-card/static/js/runtime-main.8531754f.js.map",
+    "static/js/2.9491d0dd.chunk.js": "/fm-3-column-card/static/js/2.9491d0dd.chunk.js",
+    "static/js/2.9491d0dd.chunk.js.map": "/fm-3-column-card/static/js/2.9491d0dd.chunk.js.map",
+    "static/js/3.91be1a4c.chunk.js": "/fm-3-column-card/static/js/3.91be1a4c.chunk.js",
+    "static/js/3.91be1a4c.chunk.js.map": "/fm-3-column-card/static/js/3.91be1a4c.chunk.js.map",
+    "index.html": "/fm-3-column-card/index.html",
+    "static/css/main.3c2e0dac.chunk.css.map": "/fm-3-column-card/static/css/main.3c2e0dac.chunk.css.map",
+    "static/js/2.9491d0dd.chunk.js.LICENSE.txt": "/fm-3-column-card/static/js/2.9491d0dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8531754f.js",
+    "static/js/2.9491d0dd.chunk.js",
+    "static/css/main.3c2e0dac.chunk.css",
+    "static/js/main.92ad313a.chunk.js"
+  ]
+}
