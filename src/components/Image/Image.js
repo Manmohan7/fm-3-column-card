@@ -6,7 +6,7 @@ const Image = ({ title, path }) => {
   const src = images(path).default;
 
   return (
-    <img src={src} alt={title} className="h-10 lg:h-10" />
+    <img src={src} alt='' aria-hidden="true" className="h-10 lg:h-10" />
   )
 }
 
