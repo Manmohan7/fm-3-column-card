@@ -20,7 +20,7 @@ const App = () => {
   }]
 
   return (
-    <main role="main" className="px-6 py-22 mx-auto lg:w-2/3 lg:py-56">
+    <main className="px-6 py-22 mx-auto lg:w-2/3 lg:py-56">
       <h1 className="sr-only">3 Column Card Layout</h1>
       <div className="flex flex-col rounded-lg overflow-hidden lg:flex-row">
         {cardsData.map((cardData, index) => (
